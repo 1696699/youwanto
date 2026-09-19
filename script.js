@@ -1,4 +1,4 @@
-const API_URL = "https://bc8a-129-213-99-28.ngrok-free.app/api/phi3";
+const API_URL = "https://ff72-129-213-99-28.ngrok-free.app/api/phi3";
 
 document.getElementById("sendBtn").addEventListener("click", async () => {
   const prompt = document.getElementById("prompt").value;
